@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "sVPKGlhBV851S0AhotCoulxOCJCzln0nAY14m4zVSu0XI+uYIba8VG92BxtlQxCzojQI2isS22UqFoy6iQ2t4w==",
+  "dgSpecHash": "6PtggoPcX4G7h2Uhde+nBxrh2PIjDKUOzKnKTtJnAL0OAGN0VWgNSP95pGcPFsNz2ijJTOa157/MZ0t0P+99SQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Emily Batista\\Desktop\\emilysenai\\TABELARENIS\\TABELARENIS.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Emily Batista\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.1\\microsoft.extensions.logging.abstractions.7.0.1.nupkg.sha512",
+    "C:\\Users\\Emily Batista\\.nuget\\packages\\mysqlconnector\\2.3.6\\mysqlconnector.2.3.6.nupkg.sha512"
+  ],
   "logs": []
 }

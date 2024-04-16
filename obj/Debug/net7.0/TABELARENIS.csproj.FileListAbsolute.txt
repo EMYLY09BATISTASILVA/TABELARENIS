@@ -1,0 +1,5 @@
+C:\Users\Emily Batista\Desktop\emilysenai\TABELARENIS\obj\Debug\net7.0\TABELARENIS.csproj.AssemblyReference.cache
+C:\Users\Emily Batista\Desktop\emilysenai\TABELARENIS\obj\Debug\net7.0\TABELARENIS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emily Batista\Desktop\emilysenai\TABELARENIS\obj\Debug\net7.0\TABELARENIS.AssemblyInfoInputs.cache
+C:\Users\Emily Batista\Desktop\emilysenai\TABELARENIS\obj\Debug\net7.0\TABELARENIS.AssemblyInfo.cs
+C:\Users\Emily Batista\Desktop\emilysenai\TABELARENIS\obj\Debug\net7.0\TABELARENIS.csproj.CoreCompileInputs.cache
